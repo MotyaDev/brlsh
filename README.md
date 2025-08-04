@@ -1,4 +1,4 @@
 # brlsh
 
 ## installing
-`wget https://raw.githubusercontent.com/MotyaDev/privatepaste/refs/heads/main/brlshinstall | bash`
+`wget https://rawcdn.githack.com/MotyaDev/privatepaste/refs/heads/main/brlshinstall | bash`

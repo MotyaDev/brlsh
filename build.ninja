@@ -7,7 +7,7 @@ rule compile
 rule link
   command = $cc $in -o $out
 
-build brlsh.o: compile bedrockshell.c
+build brlsh.o: compile brlsh.c
 build brlsh: link brlsh.o
 
 default brlsh
